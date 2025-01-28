@@ -1,0 +1,15 @@
+armed forces data - https://ghdx.healthdata.org/record/ihme-data/global-health-spending-1995-2019
+
+World development indicators - https://datacatalog.worldbank.org/search/collections/wdr2022
+
+Human dev index 1990 to 2002- https://ourworldindata.org/grapher/human-development-index
+
+Stability of democratic institutions index 2005 to 2023 - 
+- https://ourworldindata.org/grapher/stability-democratic-institutions-index-bti?time=earliest
+
+
+World population - 1960 to 2023 https://data.worldbank.org/indicator/SP.POP.TOTL
+
+GDP per capita data -https://data.worldbank.org/indicator/NY.GDP.PCAP.CD
+
+Ranked GMI data - https://gmi.bicc.de/ranking-table
